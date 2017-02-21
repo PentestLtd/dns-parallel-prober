@@ -1,3 +1,5 @@
+Original work by: Lorenzo G. https://github.com/lorenzog/dns-parallel-prober
+
 A parallelised domain name prober
 =================================
 
