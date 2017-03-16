@@ -7,7 +7,7 @@ This script is a proof of concept for a parallelised domain name prober. It crea
 
 **PLEASE NOTE** this script probes DNS servers actively, so please use at your own risk. You are likely to get blacklisted and/or saturate your bandwidth. Whatever you do, it's your responsibility to make sure you have approval for it.
 
-Hat tip to: [Kyle F.](https://github.com/radman404) for the original idea and to [ZephrFish](https://github.com/ZephrFish) for all improvements and testing.
+Hat tip to: [Kyle F.](https://github.com/radman404) for the original idea and to [Andy G](https://github.com/ZephrFish) for all improvements and testing.
 
 ![Demo Screenshot](screenshot.png?raw=true "Usage example")
 
